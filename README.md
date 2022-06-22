@@ -1,2 +1,7 @@
-# estudo-geolocalizacao-js
- Estudos sobre geolocalização com javascript
+# ESTUDOS GEOLOCALIZAÇÃO JAVASCRIPT
+
+Documentação: 
+- https://developer.mozilla.org/pt-BR/docs/Web/API/Geolocation/watchPosition
+
+
+
